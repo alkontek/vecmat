@@ -1,0 +1,3 @@
+[submodule "vendors"]
+	path = vendors
+	url = git@github.com:alkontek/vecmat-vendors.git
